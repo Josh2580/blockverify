@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "key": "Name",
+      "value": "Coca Cola"
+    },
+    {
+      "id": 2,
+      "key": "Barch No",
+      "value": "Coke465blockmec123"
+    },
+    {
+      "id": 3,
+      "key": "Barch Id",
+      "value": "Coke465blockmec123/220"
+    },
+    {
+      "id": 4,
+      "key": "Tag",
+      "value": "50cl Plastic bottle"
+    },
+    {
+      "id": 5,
+      "key": "Manufactured date",
+      "value": "01-Jan-2024"
+    },
+    {
+      "id": 6,
+      "key": "Expired date",
+      "value": "01-Jan-2025"
+    },
+    {
+      "id": 7,
+      "key": "Location",
+      "value": "Coca Cola, Nigeria"
+    },
+    {
+      "id": 7,
+      "key": "Contact",
+      "value": "Customercare@cocacola.com"
+    }
+  ]
+}
