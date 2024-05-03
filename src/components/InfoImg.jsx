@@ -1,5 +1,5 @@
 import React from "react";
-import ResultImg from "../assets/gas1.png";
+import ResultImg from "../assets/coke.png";
 
 const InfoImg = () => {
   return (
