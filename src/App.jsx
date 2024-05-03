@@ -6,6 +6,7 @@ import {
 } from "react-router-dom";
 //Routes
 import Root from "./pages/routes/Root";
+import "./index.css";
 
 //Pages
 import HomePage from "./pages/HomePage";

@@ -21,7 +21,7 @@ const HeaderComp = ({ visible }) => {
           onClick={() => ClickHandler("/")}
           className=" font-extrabold text-xl text-blue-950 "
         >
-          BLOCKMECH
+          BLOCKMEC
         </h3>
       </div>
       {/* <button

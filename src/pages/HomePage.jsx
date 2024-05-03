@@ -15,7 +15,7 @@ const HomePage = () => {
 
   return (
     <div className="h-svh flex flex-col gap-4 bg-white">
-      <div className="mt-3 ml-3">
+      <div className="mt-3 ml-3 ">
         <HeaderComp />
       </div>
 
